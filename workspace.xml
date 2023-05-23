@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="821fb47d-e2d6-4fe1-94b5-29ccd82e96ca" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Jsp File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PXwL6HXpNDNhHkMZxFnRKEGoQ2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/JavaWeb/rhinox_web_project/spring-web-quickstart/teaching-comment-system/src/main/webapp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Facet&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JavaWeb\rhinox_web_project\spring-web-quickstart\teaching-comment-system\src\main\webapp" />
+      <recent name="F:\JavaWeb\rhinox_web_project\spring-web-quickstart\teaching-comment-system\src\main\resources\com.rhinox.mapper" />
+      <recent name="F:\JavaWeb\rhinox_web_project\spring-web-quickstart\teaching-comment-system\src\main\resources" />
+      <recent name="F:\JavaWeb\rhinox_web_project\spring-web-quickstart\teaching-comment-system\src\main\java\rhinox" />
+      <recent name="F:\JavaWeb\rhinox_web_project\spring-web-quickstart\teaching-comment-system\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\JavaWeb\rhinox_web_project\spring-web-quickstart\teaching-comment-system\src\main\resources\com.rhinox.mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rhinox.web.servlet" />
+      <recent name="com.rhinox.mapper" />
+      <recent name="com.rhinox.pojo" />
+      <recent name="rhinox.service" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="821fb47d-e2d6-4fe1-94b5-29ccd82e96ca" name="变更" comment="" />
+      <created>1683616675072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683616675072</updated>
+      <workItem from="1683616676182" duration="2053000" />
+      <workItem from="1683619439255" duration="17555000" />
+      <workItem from="1683639111654" duration="2104000" />
+      <workItem from="1683710817801" duration="3366000" />
+      <workItem from="1683772879067" duration="15112000" />
+      <workItem from="1683794960077" duration="629000" />
+      <workItem from="1684753553043" duration="1252000" />
+      <workItem from="1684756725307" duration="635000" />
+      <workItem from="1684758542244" duration="1027000" />
+      <workItem from="1684759725948" duration="1850000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

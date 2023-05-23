@@ -1,0 +1,12 @@
+com\rhinox\pojo\User.class
+com\rhinox\service\UserService.class
+com\rhinox\pojo\Brand.class
+com\rhinox\util\SqlSessionFactoryUtils.class
+com\rhinox\util\CheckCodeUtil.class
+com\rhinox\web\servlet\CheckCodeServlet.class
+com\rhinox\pojo\PageBean.class
+com\rhinox\web\servlet\LoginServlet.class
+com\rhinox\mapper\UserMapper.class
+com\rhinox\web\servlet\RegisterServlet.class
+com\rhinox\web\servlet\UserServlet.class
+com\rhinox\web\servlet\BaseServlet.class
